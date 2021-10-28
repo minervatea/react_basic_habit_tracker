@@ -79,7 +79,9 @@ button {
 
 .add-button {
   height: 100%;
-  font-size: 1.5rem;
+  display: inline-block;
+  font-size: 1.3rem;
+  margin-left: 0.2em;
   padding: 0.3em 0.5em;
   background-color: green;
   color: white;
@@ -88,6 +90,7 @@ button {
 .addform {
   height: 2.5rem;
   width: 30%;
+  margin-top: 0.5em;
 }
 
 .habits-reset {
@@ -95,4 +98,5 @@ button {
   padding: 0.2em 1em;
   background-color: green;
   color: white;
+  margin-left: 25em;
 }
